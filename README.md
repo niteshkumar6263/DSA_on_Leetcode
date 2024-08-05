@@ -7,8 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0001-two-sum) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 <!---LeetCode Topics End-->
