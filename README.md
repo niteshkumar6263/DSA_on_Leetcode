@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0216-combination-sum-iii](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0216-combination-sum-iii) |
+## Math
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/2050-count-good-numbers) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
