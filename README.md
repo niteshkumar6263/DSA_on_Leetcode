@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1603-running-sum-of-1d-array](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Hash Table
 |  |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
