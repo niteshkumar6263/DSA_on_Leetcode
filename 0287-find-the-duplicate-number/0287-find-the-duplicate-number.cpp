@@ -16,6 +16,6 @@ public:
         for(int i=0;i<n;i++){
             if(nums[i]-1!=i)return nums[i];
         }
-        return n;
+        return 0;
     }
 };
