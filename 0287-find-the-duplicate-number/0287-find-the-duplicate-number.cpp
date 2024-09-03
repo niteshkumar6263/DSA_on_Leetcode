@@ -1,25 +1,21 @@
 class Solution {
-    using ll=long long;
 public:
-    bool f(vector<int>&nums, ll mid){
-        ll c=0;
-        for(auto i:nums){
-            if(i<=mid)c++;
-        }
-        return c>mid;
-    }
     int findDuplicate(vector<int>& nums) {
-        ll n=nums.size()-1;
-        ll low=1,high=n;
-        while(low<=high){
-            ll mid=(low+high)/2;
-            if(f(nums,mid)){
-                high=mid-1;
+        int n=nums.size();
+        int j=n-1;
+        for(int i=0;i<=j;){
+            if(nums[i]-1==i)i++;
+            else if(nums[nums[i]-1]!=nums[i]){
+                swap(nums[nums[i]-1],nums[i]);
             }
-            else{
-                low=mid+1;
+            else {
+                swap(nums[i],nums[j]);
+                j--;
             }
         }
-        return low;
+        for(int i=0;i<n;i++){
+            if(nums[i]-1!=i)return nums[i];
+        }
+        return n;
     }
 };
