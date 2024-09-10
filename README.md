@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0041-first-missing-positive) |
 | [0216-combination-sum-iii](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0216-combination-sum-iii) |
+| [0238-product-of-array-except-self](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -49,5 +50,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
