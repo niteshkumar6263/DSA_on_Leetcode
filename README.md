@@ -52,4 +52,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
+## String
+|  |
+| ------- |
+| [2576-minimum-penalty-for-a-shop](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
