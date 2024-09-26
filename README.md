@@ -43,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/2050-count-good-numbers) |
 ## Two Pointers
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Prefix Sum
