@@ -14,8 +14,8 @@ public:
             ans+=1<<count;
             n-=d<<count;
         }
-        if(ans==(1<<31) && sign==true)return INT_MAX;
-        if(ans==(1<<31) && sign==false)return INT_MIN;
+        if((ans>INT_MAX || ans==INT_MIN) && sign==true)return INT_MAX;
+        if(ans>INT_MAX && sign==false)return INT_MIN;
         return (sign)?ans:(-1*ans);
 
     }
