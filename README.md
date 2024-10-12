@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0041-first-missing-positive) |
+| [0078-subsets](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0216-combination-sum-iii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0216-combination-sum-iii) |
 ## Math
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0287-find-the-duplicate-number) |
