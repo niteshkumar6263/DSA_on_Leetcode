@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0041-first-missing-positive) |
+| [0424-longest-repeating-character-replacement](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Binary Search
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Dynamic Programming
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1138-grumpy-bookstore-owner) |
