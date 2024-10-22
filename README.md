@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1138-grumpy-bookstore-owner) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0041-first-missing-positive) |
 | [0424-longest-repeating-character-replacement](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1603-running-sum-of-1d-array) |
