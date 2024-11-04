@@ -9,13 +9,15 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        int t = 1e4+1;
         ListNode* temp = head;
-        while(t--){
-            if(temp==NULL)return false;
-            temp = temp -> next;
+        map<ListNode* , int>m;
+        while(temp!=NULL){
+            m[temp]++;
+            if(m.find(temp->next)!=m.end()){
+                return true;
+            }
+            temp = temp->next;
         }
-        return true;
-
+        return false;
     }
 };
