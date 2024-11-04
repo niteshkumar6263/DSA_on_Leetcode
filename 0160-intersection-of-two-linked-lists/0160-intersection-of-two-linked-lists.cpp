@@ -36,7 +36,7 @@ public:
                 tempheadB = tempheadB -> next;
             }
         }
-        while(tempheadA != tempheadB && tempheadA != NULL){
+        while(tempheadA != tempheadB){
             tempheadA = tempheadA -> next;
             tempheadB = tempheadB -> next;
         }
