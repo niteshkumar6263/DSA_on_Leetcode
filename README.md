@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2411-spiral-matrix-iv](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Hash Table
 |  |
@@ -147,4 +148,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2411-spiral-matrix-iv](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/2411-spiral-matrix-iv) |
+## Matrix
+|  |
+| ------- |
+| [2411-spiral-matrix-iv](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/2411-spiral-matrix-iv) |
+## Simulation
+|  |
+| ------- |
+| [2411-spiral-matrix-iv](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
