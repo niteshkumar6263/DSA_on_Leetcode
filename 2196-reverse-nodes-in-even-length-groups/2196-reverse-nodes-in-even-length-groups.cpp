@@ -22,7 +22,7 @@ public:
                 t = t->next;
                 i++;
             }
-            if(t==NULL && i%2!=0)break;
+            // if(t==NULL && i%2!=0)break;
             if(i%2 == 0 ){
                 ListNode* first = h->next;
                 ListNode* second = h->next->next;
