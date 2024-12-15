@@ -17,31 +17,27 @@ public:
         }
         ListNode* temp = head;
         int a,b,c;
-        vector<int>critical;
+        int fidx = -1,sidx = -1;
+        int f = -1 , s=-1;
         int pos = 1;
+        int mini = INT_MAX;
         while(temp->next->next!=NULL){
             a = temp->val;
             b = temp->next->val;
             c = temp->next->next->val;
             if(a<b && c<b || b<a && b<c){
-                critical.push_back(pos);
+                (fidx == -1)?fidx = pos:sidx = pos;
+                f=s;
+                s = pos;
+                if(f!=-1){
+                    mini = min(mini,s-f);
+                }
             }
             temp = temp->next;
             pos++;
         }
-        int n = critical.size();
-        if(n==0 || n==1){
-            vector<int>v(2,-1);
-            return v;
-        }
-        sort(critical.begin(),critical.end());
-        vector<int>v;
-        int mini = INT_MAX;
-        for(int i=1;i<n;i++){
-            mini = min(mini,critical[i]-critical[i-1]);
-        }
-        v.push_back(mini);
-        v.push_back(critical[n-1]-critical[0]);
-        return v;
+        int maxd = sidx-fidx;
+        if(sidx==-1)return {-1,-1};
+        return {mini,maxd};
     }
 };
