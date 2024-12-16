@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
