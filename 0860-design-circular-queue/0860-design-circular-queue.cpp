@@ -38,6 +38,7 @@ public:
     
     int Rear() {
         if(s==0)return -1;
+        if(b==0)return arr[arr.size()-1];
         return arr[b-1];
     }
     
