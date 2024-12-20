@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0860-design-circular-queue](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0860-design-circular-queue) |
 | [0966-binary-subarrays-with-sum](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1138-grumpy-bookstore-owner) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [0860-design-circular-queue](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/2196-reverse-nodes-in-even-length-groups) |
@@ -200,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0860-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
