@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0041-first-missing-positive) |
 | [0078-subsets](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0713-subarray-product-less-than-k) |
