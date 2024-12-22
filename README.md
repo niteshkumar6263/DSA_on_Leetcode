@@ -212,4 +212,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0860-design-circular-queue) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
