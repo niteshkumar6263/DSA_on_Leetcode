@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0257-binary-tree-paths) |
 ## Math
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0020-valid-parentheses) |
+| [0257-binary-tree-paths](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
@@ -217,18 +219,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
