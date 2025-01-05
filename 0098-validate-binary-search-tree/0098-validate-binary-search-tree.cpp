@@ -11,18 +11,17 @@
  */
 class Solution {
 public:
-    void check(TreeNode* root ,vector<int>&v){
-        if(root==NULL)return;
-        check(root->left,v);
-        v.push_back(root->val);
-        check(root->right,v);
+    bool check(TreeNode* root ,long long& a){
+        if(root==NULL)return true;
+        bool l =  check(root->left,a);
+        if(a >= root->val)return false;
+        a = root->val;
+        bool r = true;
+        if(root->right!=NULL) r = (a>=root->right->val)?false : check(root->right,a);
+        return l && r;
     }   
     bool isValidBST(TreeNode* root) {
-        vector<int>v;
-        check(root,v);
-        for(int i = 1;i<v.size();i++){
-            if(v[i-1]>=v[i])return false;
-        }
-        return true;
+        long long  a= INT64_MIN;
+        return check(root,a);
     }
 };
