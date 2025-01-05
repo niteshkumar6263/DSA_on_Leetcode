@@ -11,20 +11,17 @@
  */
 class Solution {
 public:
-    TreeNode* create(vector<int>v){
-        if(v.size()==0)return NULL;
-        int n = v.size();
-        int mid = n/2;
+    TreeNode* create(vector<int>&v , int l, int r){
+        if(r-l+1==0)return NULL;
+        int mid = (l+r)/2;
         TreeNode* root = new TreeNode(v[mid],NULL,NULL);
-        vector<int>l;
-        vector<int>r;
-        for(int i =0;i<mid;i++) l.push_back(v[i]);
-        for(int i = mid+1;i<n;i++)r.push_back(v[i]);
-        root->left = create(l);
-        root->right = create(r);
+        root->left = create(v,l,mid-1);
+        root->right = create(v,mid+1,r);
         return root;
     }
     TreeNode* sortedArrayToBST(vector<int>& nums) {
-        return create(nums);
+        int l = 0;
+        int r = nums.size()-1;
+        return create(nums, l ,r);
     }
 };
