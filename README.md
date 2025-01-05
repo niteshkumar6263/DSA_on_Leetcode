@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
