@@ -2,7 +2,7 @@ class Solution {
 public:
     struct descend{
         bool operator()(const pair<int,int>&a, const pair<int,int>&b) const{
-            return a.first >= b.first;
+            return a.second >= b.second;
         }
     };
     vector<int> topKFrequent(vector<int>& nums, int k) {
@@ -13,12 +13,12 @@ public:
         }
         set<pair<int,int>,descend>s;
         for(auto it = m.begin();it!=m.end();it++){
-            s.insert({it->second,it->first});
+            s.insert({it->first,it->second});
         }
         int count = 0;
         vector<int>ans;
         for(auto & it:s){
-            ans.push_back(it.second);
+            ans.push_back(it.first);
             count++;
             if(count==k)break;
         }
