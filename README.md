@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1127-last-stone-weight](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1127-last-stone-weight) |
 | [1138-grumpy-bookstore-owner](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1127-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
