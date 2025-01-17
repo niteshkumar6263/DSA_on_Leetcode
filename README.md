@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2411-spiral-matrix-iv](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2792-neighboring-bitwise-xor](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2792-neighboring-bitwise-xor](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 ## Prefix Sum
 |  |
 | ------- |
