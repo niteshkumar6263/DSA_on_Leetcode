@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2050-count-good-numbers](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/2050-count-good-numbers) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/2050-count-good-numbers) |
 ## Two Pointers
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1013-fibonacci-number) |
 | [1503-reducing-dishes](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1503-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
@@ -384,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
