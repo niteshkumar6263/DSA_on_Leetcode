@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1013-fibonacci-number) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1013-fibonacci-number) |
@@ -396,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1013-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
