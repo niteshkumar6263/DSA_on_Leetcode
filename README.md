@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1013-fibonacci-number) |
 | [1503-reducing-dishes](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1503-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -390,5 +392,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/niteshkumar6263/DSA_on_Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
